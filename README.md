@@ -1,4 +1,4 @@
-# Individual Programming task num 1
+# Individual Programming project num 1
 
 Dependencies visible in makefile.
 
