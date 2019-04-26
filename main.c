@@ -298,9 +298,7 @@ void inputRead (void) {
 int main (void) {
 
     alloc_tree();
-
     inputRead();    
-
     clear_data();
 
     return 0;
